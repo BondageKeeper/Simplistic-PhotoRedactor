@@ -29,6 +29,19 @@ application instead of the code.
 
 ## 🔧 Running the project:
 
+### Prerequisites
+Make sure you have Python Installed. Then, install the required libraries:
+```bash
+pip install "flet<0.21.0" pillow pygame
+```
+### Execution
+1) Clone this repository or download the source files.
+2) Run the main script via your IDE or terminal:
+```bash
+python Simplistic_PhotoRedactor.py
+```
+
+
 ## 🎯 Conclusion:
 As I wrote before this project was created in 2025 and I remember how I learned a lot of things like storage of file in RAM memory using 
 bytes and io[io.BytesIO()].This project is really useful to create if you wanna learn how to use library Pillow and other instruments however
