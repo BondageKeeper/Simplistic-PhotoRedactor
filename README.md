@@ -29,6 +29,9 @@ application instead of the code.
 
 ## 🔧 Running the project:
 
+### Install application
+* **sha256:b5001588ee9a21a5887e2dad7e35ea387ee4dfaa1e11a1a5d1103ccf119a78b2**
+
 ### Prerequisites
 Make sure you have Python Installed. Then, install the required libraries:
 ```bash
@@ -40,7 +43,6 @@ pip install "flet<0.21.0" pillow pygame
 ```bash
 python Simplistic_PhotoRedactor.py
 ```
-
 
 ## 🎯 Conclusion:
 As I wrote before this project was created in 2025 and I remember how I learned a lot of things like storage of file in RAM memory using 
