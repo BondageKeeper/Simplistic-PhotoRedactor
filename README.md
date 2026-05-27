@@ -23,16 +23,16 @@ application instead of the code.
 * **Silvery & Edge:** Applies aesthetic monochrome styles and high-contrast edge detection.
   
 ### 📐 Transformations & Editing
-* **Resize:** User can resize image or additional image.
-* **Mask:** User can user black mask to cover something.
-* **Rotation:** User can rotate an image.
+* **Resize:** The user can resize an image or  an additional image.
+* **Mask:** The user can apply a black mask to cover areas.
+* **Rotation:** The user can rotate an image.
 
 ## 🔧 Running the project:
 
 ## 🎯 Conclusion:
 As I wrote before this project was created in 2025 and I remember how I learned a lot of things like storage of file in RAM memory using 
 bytes and io[io.BytesIO()].This project is really useful to create if you wanna learn how to use library Pillow and other instruments however
-I importantly reccomend not to plunge into interface so deeply because I remember that it took some time to make something like a suitable cover
+I highly reccomend not to plunge into interface so deeply because I remember that it took some time to make something like a suitable cover
 for this so-called project.
 
 
