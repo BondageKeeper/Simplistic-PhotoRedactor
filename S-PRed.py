@@ -1,11 +1,8 @@
 import io
 import flet as ft
-import pygame
 from PIL import Image,ImageFilter,ImageDraw,ImageFont
 import base64
 import time
-pygame.init()
-pygame.mixer.init()
 class Redactor(ft.UserControl):
     def __init__(self, page: ft.Page):
         super().__init__()
