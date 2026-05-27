@@ -30,7 +30,7 @@ application instead of the code.
 ## 🔧 Running the project:
 
 ### Install application
-* **sha256:b5001588ee9a21a5887e2dad7e35ea387ee4dfaa1e11a1a5d1103ccf119a78b2**
+* **https://github.com/BondageKeeper/Simplistic-PhotoRedactor/releases/download/v1.0.0/S-PRed.exe**
 
 ### Prerequisites
 Make sure you have Python Installed. Then, install the required libraries:
