@@ -7,7 +7,7 @@ into fully-fledged application which works normally(like it was 1 year ago despi
 application instead of the code.
 
 ## 📷Preview:
-![Simulation_intro](redactor_test.gif)
+![Simulation_intro](test_redactor.gif)
 
 ## 🛠️ Used tools(crucial libraries):
 * **Pillow** - main tool to edit an image.
